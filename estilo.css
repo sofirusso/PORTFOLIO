@@ -429,7 +429,7 @@ font-family: monospace;
 .box-10 p:nth-child(2),
 .box-20 p:nth-child(2),
 .box-30 p:nth-child(2){
-	color:#FFFFFF;
+	color:#000000;
 	font-family: calibri;
 	font-size: 23px;
 }
